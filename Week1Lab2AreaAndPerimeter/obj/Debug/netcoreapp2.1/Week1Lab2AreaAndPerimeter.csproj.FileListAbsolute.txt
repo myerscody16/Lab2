@@ -1,0 +1,11 @@
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\bin\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.deps.json
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\bin\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.runtimeconfig.json
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\bin\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.runtimeconfig.dev.json
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\bin\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.dll
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\bin\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.pdb
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\obj\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.csprojAssemblyReference.cache
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\obj\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\obj\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\obj\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.AssemblyInfo.cs
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\obj\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.dll
+C:\Users\myers\source\repos\Week1Lab2AreaAndPerimeter\Week1Lab2AreaAndPerimeter\obj\Debug\netcoreapp2.1\Week1Lab2AreaAndPerimeter.pdb
